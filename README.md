@@ -1,22 +1,4 @@
-Data analysis project examining the factors that influenced survival on the Titanic.  Utilizes Python, Power BI, and historical data to uncover insights into passenger class, gender, age, family size, fare, cabin location, and port of embarkation.
-
-1 -  Number of People Survived by Age in Titanic Disaster
-
-2 -  Survival rates
-
-3 -  Survival Rates by Gender
-
-4 -  Survival rates by Passenger class
-
-5 -  The Impact of Family Size on Titanic Survival Rates
-
-6 -  Survival Rate by Number of Siblings/Spouses
-
-7 -  Number of survived by Fare
-
-8 -  Survival rate by cabin
-
-9 -  Survival rates by Port of Embarkation
+Data analysis projects 
 
 ![1](https://github.com/DhiaAkermii/data-analysis/assets/65496901/d571682a-607a-4e0a-9198-03b2b0c84419)
 ![2](https://github.com/DhiaAkermii/data-analysis/assets/65496901/b4f89cd8-ec64-4c92-b622-2ff448287668)
